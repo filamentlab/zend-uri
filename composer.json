@@ -1,5 +1,5 @@
 {
-	"name": "zf1/zend-uri",
+	"name": "filamentlab/zend-uri",
 	"description": "Zend Framework 1 Uri package",
 	"keywords": [
 		"framework",
